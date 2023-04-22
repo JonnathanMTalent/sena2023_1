@@ -1,7 +1,8 @@
 body {
   margin: 0;
   padding: 1%;
-  background: url(../imagenes/descarga\ \(3\).png) no-repeat center top;
+  /* background: url(../imagenes/descarga\ \(3\).png) no-repeat center top; */
+  background: rgb(25, 125, 143);
   background-size: cover;
   font-family: sans-serif;
   /* height: 100vh; */
