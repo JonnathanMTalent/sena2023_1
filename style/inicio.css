@@ -1,8 +1,8 @@
 body {
   margin: 0;
   padding: 1%;
-  /* background: url(../imagenes/descarga\ \(3\).png) no-repeat center top; */
-  background: rgb(25, 125, 143);
+  background-image: url(../imagenes/enfermera.png);
+  background-color: rgb(140, 205, 248);
   background-size: cover;
   font-family: sans-serif;
   /* height: 100vh; */
@@ -19,23 +19,24 @@ body {
   align-content: auto;
 /*      height: 7em;
   padding: 3px; */
-  height: 20%;
+  height: 100%;
   padding: 1%;
   width: 100%;
  }
  header img{
-  height: 50px;
-  width: 300px;
+  height: 200px;
+  width: 200px;
   align-items: flex-end;
 
  }
  nav{
   width: 57%;
+  height: fit-content;
   background: rgba(0, 0, 0, 0.411);
   color: white;
   margin: 1%;
   padding: 5px;
-  height: 3em; 
+  /* height: 3em;  */
   /* background: rgba(0, 0, 0, 0.623); */
 }
 
